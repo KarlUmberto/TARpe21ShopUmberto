@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\bin\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.deps.json
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\bin\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.runtimeconfig.json
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\bin\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.dll
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\bin\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.pdb
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.dll
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\refint\TARpe21ShopUmberto.ApplicationServices.dll
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.pdb
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\TARpe21ShopUmberto.ApplicationServices.genruntimeconfig.cache
+C:\Users\opilane\source\repos\TARpe21ShopUmberto\TARpe21ShopUmberto.ApplicationServices\obj\Debug\net6.0\ref\TARpe21ShopUmberto.ApplicationServices.dll
