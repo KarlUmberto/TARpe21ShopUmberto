@@ -1,4 +1,4 @@
-using TARpe21ShopUmberto.data;
+using TARpe21ShopUmberto.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 

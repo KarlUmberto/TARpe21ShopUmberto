@@ -5,7 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
-using TARpe21ShopUmberto.Core.Domain.Spaceship;
 using TARpe21ShopUmberto.Core.Domain;
 
 namespace TARpe21ShopUmberto.Data
