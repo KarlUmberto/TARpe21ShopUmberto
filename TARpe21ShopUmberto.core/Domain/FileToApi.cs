@@ -11,5 +11,6 @@ namespace TARpe21ShopUmberto.Core.Domain
         public Guid Id { get; set; }
         public string ExistingFilePath { get; set; }
         public Guid? RealEstateId { get; set; }
+        public Guid? CarId { get; set; }
     }
 }

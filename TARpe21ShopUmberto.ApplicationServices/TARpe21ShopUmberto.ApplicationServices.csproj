@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -21,6 +21,11 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Nancy" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TARpe21ShopUmberto.core\TARpe21ShopUmberto.Core.csproj" />
+    <ProjectReference Include="..\TARpe21ShopUmberto.data\TARpe21ShopUmberto.Data.csproj" />
   </ItemGroup>
 
 </Project>

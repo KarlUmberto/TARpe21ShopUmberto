@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
@@ -16,6 +17,7 @@ namespace TARpe21ShopUmberto.Data
         public DbSet<Spaceship> Spaceships { get; set; }
         public DbSet<FileToDatabase> FilesToDatabase { get; set; }
         public DbSet<RealEstate> RealEstates { get; set; }
+        public DbSet<Car> Cars { get; set; }
         public DbSet<FileToApi> FilesToApi { get; set; }
     }
 }

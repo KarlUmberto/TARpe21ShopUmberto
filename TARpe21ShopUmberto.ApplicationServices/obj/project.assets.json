@@ -78,7 +78,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Http/2.2.0": {
+      "Microsoft.AspNetCore.Http/2.2.2": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
@@ -2707,6 +2707,37 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "TARpe21ShopUmberto.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http": "2.2.2",
+          "Microsoft.AspNetCore.Http.Features": "5.0.17",
+          "Microsoft.EntityFrameworkCore": "6.0.22",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.22"
+        },
+        "compile": {
+          "bin/placeholder/TARpe21ShopUmberto.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TARpe21ShopUmberto.Core.dll": {}
+        }
+      },
+      "TARpe21ShopUmberto.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.22",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.22",
+          "TARpe21ShopUmberto.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TARpe21ShopUmberto.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TARpe21ShopUmberto.Data.dll": {}
+        }
       }
     }
   },
@@ -2766,16 +2797,16 @@
         "microsoft.aspnetcore.hosting.server.abstractions.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Http/2.2.0": {
-      "sha512": "YogBSMotWPAS/X5967pZ+yyWPQkThxhmzAwyCHCSSldzYBkW5W5d6oPfBaPqQOnSHYTpSOSOkpZoAce0vwb6+A==",
+    "Microsoft.AspNetCore.Http/2.2.2": {
+      "sha512": "BAibpoItxI5puk7YJbIGj95arZueM8B8M5xT1fXBn3hb3L2G3ucrZcYXv1gXdaroLbntUs8qeV8iuBrpjQsrKw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.http/2.2.0",
+      "path": "microsoft.aspnetcore.http/2.2.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Http.xml",
-        "microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
+        "microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
         "microsoft.aspnetcore.http.nuspec"
       ]
     },
@@ -8086,6 +8117,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "TARpe21ShopUmberto.Core/1.0.0": {
+      "type": "project",
+      "path": "../TARpe21ShopUmberto.core/TARpe21ShopUmberto.Core.csproj",
+      "msbuildProject": "../TARpe21ShopUmberto.core/TARpe21ShopUmberto.Core.csproj"
+    },
+    "TARpe21ShopUmberto.Data/1.0.0": {
+      "type": "project",
+      "path": "../TARpe21ShopUmberto.data/TARpe21ShopUmberto.Data.csproj",
+      "msbuildProject": "../TARpe21ShopUmberto.data/TARpe21ShopUmberto.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8097,34 +8138,31 @@
       "Microsoft.EntityFrameworkCore.Design >= 6.0.22",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.22",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.22",
-      "Nancy >= 2.0.0"
+      "Nancy >= 2.0.0",
+      "TARpe21ShopUmberto.Core >= 1.0.0",
+      "TARpe21ShopUmberto.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
     "C:\\Users\\opilane\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\ProgramData\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Umps\\TARpe21ShopUmberto-master\\TARpe21ShopUmberto.ApplicationServices\\TARpe21ShopUmberto.ApplicationServices.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.ApplicationServices\\TARpe21ShopUmberto.ApplicationServices.csproj",
       "projectName": "TARpe21ShopUmberto.ApplicationServices",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\Umps\\TARpe21ShopUmberto-master\\TARpe21ShopUmberto.ApplicationServices\\TARpe21ShopUmberto.ApplicationServices.csproj",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.ApplicationServices\\TARpe21ShopUmberto.ApplicationServices.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\Umps\\TARpe21ShopUmberto-master\\TARpe21ShopUmberto.ApplicationServices\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.ApplicationServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\ProgramData\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -8137,7 +8175,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj": {
+              "projectPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj"
+            },
+            "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.data\\TARpe21ShopUmberto.Data.csproj": {
+              "projectPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.data\\TARpe21ShopUmberto.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -8203,7 +8248,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
