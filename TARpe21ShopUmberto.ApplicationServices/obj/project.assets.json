@@ -8150,9 +8150,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.ApplicationServices\\TARpe21ShopUmberto.ApplicationServices.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.ApplicationServices\\TARpe21ShopUmberto.ApplicationServices.csproj",
       "projectName": "TARpe21ShopUmberto.ApplicationServices",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.ApplicationServices\\TARpe21ShopUmberto.ApplicationServices.csproj",
+      "projectPath": "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.ApplicationServices\\TARpe21ShopUmberto.ApplicationServices.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.ApplicationServices\\obj\\",
       "projectStyle": "PackageReference",
@@ -8176,11 +8176,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj": {
-              "projectPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj"
+            "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj"
             },
-            "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.data\\TARpe21ShopUmberto.Data.csproj": {
-              "projectPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.data\\TARpe21ShopUmberto.Data.csproj"
+            "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.data\\TARpe21ShopUmberto.Data.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.data\\TARpe21ShopUmberto.Data.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JUhXIbrFgxqBaXn8w8IVHUE1LiTYgi4Uq4mYoYdN8k/fGis5FuAQWrEenTwSUsc62lOWNR96gqGSkssN2uwhzg==",
+  "dgSpecHash": "4iaE3zs/z88qwH1NgHDEinslldIEXC5wECeQVtt+XkwxadRO3dpN52VArNb9Bt4E0Qui4ktzkry5l6uV6gjnKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",

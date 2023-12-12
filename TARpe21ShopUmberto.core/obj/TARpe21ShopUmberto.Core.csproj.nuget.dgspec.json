@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj": {}
+    "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj": {
+    "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj",
         "projectName": "TARpe21ShopUmberto.Core",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj",
+        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\TARpe21ShopUmberto.Core.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\opilane\\source\\repos\\KarlUmberto\\TARpe21ShopUmberto\\TARpe21ShopUmberto.core\\obj\\",
         "projectStyle": "PackageReference",
